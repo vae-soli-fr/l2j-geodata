@@ -1,12 +1,14 @@
-L2J_Geodata_Hi5 Project
+![Alt text](https://cdn.pbrd.co/images/20HrZUcx.png)
+L2J_Geodata High Five files
 =
-L2J_Geodata_Hi5 geodata files for the MMORPG Lineage II.
+Geodata files for L2JServer emulator MMORPG Lineage II.
 ---
 - master branch is currently High Five
 
 ## The works in progress:
-* All Fortress.
-* All Castles.
+* Rework all Fortress.
+* Rework all Castles.
 
-## Completed:
-* Missing Geodata MithrilMines. (Updated to Hi5)
+Links
+--------------
+- <a href="http://www.l2jserver.com/forum/">L2JServer Forums </a>
