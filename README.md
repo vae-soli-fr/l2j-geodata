@@ -1,10 +1,20 @@
 ![Alt text](https://cdn.pbrd.co/images/20HrZUcx.png)
-L2J_Geodata High Five
-=
-Geodata files for L2JServer emulator MMORPG Lineage II.
----
-- master branch is currently High Five
+
+L2J Geodata Project
+==============
+
+L2J Geodata is an open-source geodata files for the famous Korean MMORPG.
+--------------
+
+This page only gives very basic information, for the detailed information about use geofiles in L2J Server, please visit the developers forums.
+
+- master branch is the latest High Five release
 
 Links
 --------------
-- <a href="http://www.l2jserver.com/forum/">L2JServer Forums </a>
+
+- [Web Site](http://www.l2jserver.com)
+
+- [Forums](http://www.l2jserver.com/forum)
+
+- [Documentation](https://bitbucket.org/l2jserver/l2j_server/wiki)
