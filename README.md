@@ -1,4 +1,4 @@
-![Alt text](https://cdn.pbrd.co/images/20HrZUcx.png)
+![Alt text](https://i.imgur.com/4ehTK1F.png)
 
 L2J Geodata Project
 ==============
