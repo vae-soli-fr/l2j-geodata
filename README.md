@@ -3,6 +3,8 @@
 L2J Geodata Project
 ==============
 
+![Workflow status](https://github.com/vae-soli-fr/l2j-geodata/actions/workflows/workflow.yml/badge.svg)
+
 L2J Geodata is an open-source geodata files for the famous Korean MMORPG.
 --------------
 
