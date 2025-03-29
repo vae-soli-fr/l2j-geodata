@@ -1,0 +1,16 @@
+name: Geo CI
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: self-hosted
+
+    steps:
+    - name: Set up PATH
+      run: echo "$HOME/.bin" >> $GITHUB_PATH
+    - uses: actions/checkout@v3
+    - name: Deploy the L2J Geodata
+      run: deploy-geodata.sh
